@@ -48,7 +48,6 @@
 ## Contact
 
 <div> 
-  <a href="https://instagram.com/danilo_srr/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:danilo_srr@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=hotmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/danilo-ribeiro-419a2a1b8"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:danilo_srr@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=hotmail&logoColor=white"></a>
 </div>
