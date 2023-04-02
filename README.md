@@ -1,6 +1,6 @@
 ## Hi there! I'm Danilo Ribeiro 👋
 
-I'm a developer passionate about technologie, and engenieering, pretty much for the same reason, the desire to understand and build new things. I'm always looking for new skills to learn and new ways to put my ideas into practice. That's why i got into programming, and i am loving it.
+I'm a developer passionate about technology, and engenieering, pretty much for the same reason, the desire to understand and build new things. I'm always looking for new skills to learn and new ways to put my ideas into practice. That's why i got into programming.
 
 - 🖥️ Web Developer by <a href="https://www.driven.com.br">Driven Education</a>
 - ⚙️ Mechanical Engineer undergraduate at <a href="https://www.ufpb.br/ufpb">Universidade Federal da Paraíba</a>
