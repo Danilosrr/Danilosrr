@@ -43,8 +43,8 @@ I'm a developer passionate about technology, and engineering, pretty much for th
   <p>&nbsp</p>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danilosrr&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosrr&layout=compact&langs_count=7&theme=default"/>
+  <img height="150em" src="https://github-readme-stat-iota-rust.vercel.app/api?username=Danilosrr&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stat-iota-rust.vercel.app/api/top-langs/?username=Danilosrr&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 ## Contact
